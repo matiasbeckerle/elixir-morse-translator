@@ -1,6 +1,6 @@
 # MorseTranslator
 
-**TODO: Add description**
+Project to play and discover the [Elixir](https://elixir-lang.org) programming language.
 
 ## Installation
 
@@ -16,4 +16,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/morse_translator](https://hexdocs.pm/morse_translator).
-
