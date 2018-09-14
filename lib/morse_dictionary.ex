@@ -1,5 +1,5 @@
-defmodule Alphabet do
-  @alphabet %{
+defmodule MorseDictionary do
+  @dictionary %{
     ".-"      => "A",
     "-..."    => "B",
     "-.-."    => "C",
@@ -35,8 +35,9 @@ defmodule Alphabet do
     "-...."   => "6",
     "--..."   => "7",
     "---.."   => "8",
-    "----."   => "9"
+    "----."   => "9",
+    "@"       => " "
   }
 
-  def alphabet, do: @alphabet
+  def dictionary, do: @dictionary
 end

@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :morse_translator, key: :value
+#     config :morse, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:morse_translator, :key)
+#     Application.get_env(:morse, :key)
 #
 # Or configure a 3rd-party app:
 #

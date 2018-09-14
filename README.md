@@ -1,18 +1,19 @@
-# MorseTranslator
+# Morse
 
 Project to play and discover the [Elixir](https://elixir-lang.org) programming language.
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `morse_translator` to your list of dependencies in `mix.exs`:
+by adding `morse` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:morse_translator, "~> 0.1.0"}]
+  [{:morse, "~> 0.1.0"}]
 end
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/morse_translator](https://hexdocs.pm/morse_translator).
+be found at [https://hexdocs.pm/morse](https://hexdocs.pm/morse).
+
